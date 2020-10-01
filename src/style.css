@@ -7,6 +7,8 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+  max-width: 60vw;
+  margin: 0 auto;
 }
 main hr {
   border-top: 1px solid #007481;
@@ -24,7 +26,11 @@ main hr {
   border: 1px solid #007481;
   outline: none;
 }
-.gif-grid {
-  
-}
 
+.gif-grid {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
