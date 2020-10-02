@@ -1,25 +1,9 @@
-¿Qué veremos en esta sección?
+## Gif Search
 
-Custom Hooks
+Practice with React, Custom Hooks, API Fetch, sending methods as arguments, CSS class, Animate.css, keys, Giphy.
+Small app made to demostrate the use of React  customHooks.
 
-Fetch hacia un API
-
-Comunicación entre componentes
-
-Clases de CSS
-
-Animaciones
-
-Enviar métodos como argumentos
-
-Crear listados
-
-keys
-
-Giphy
-
-Esta es una aplicación pequeña pero muy ilustrativa que explica cómo utilizar React + customHooks para poder resolver necesidades en específico que podremos re-utilizar después.
-
+Deployed to [GitHub pages](https://ezequielcaste.github.io/react-gif-search)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
